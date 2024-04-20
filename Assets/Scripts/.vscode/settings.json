@@ -1,0 +1,5 @@
+{
+    "editor.suggest.showReferences": false,
+    "dotnet.codeLens.enableReferencesCodeLens": false,
+    "css.hover.references": false
+}
